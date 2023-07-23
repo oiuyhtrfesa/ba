@@ -12,13 +12,13 @@ html{
 }
 
 .bBgImage{
-/*     height: 100vh;
-    width: 100%; */
+    height: 100vh;
+    width: 100%;
     background-color:green;
     background-image:url("mAin.jpg") ;
-/*     background-size: cover;
+   background-size: cover;
 /*     background-position: center center;
-    background-attachment: fixed; */ */
+    background-attachment: fixed; */
 }
 .bannerText{
     text-align: left;
