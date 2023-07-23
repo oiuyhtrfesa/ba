@@ -14,7 +14,7 @@ html{
 .bannerBgImage{
     height: 100vh;
     width: 100%;
-    background: url("./images/11.jpg") ;
+    background: url("11.jpg") ;
     background-size: cover;
     background-position: center center;
     background-attachment: fixed;
